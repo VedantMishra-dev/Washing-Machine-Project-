@@ -73,25 +73,6 @@ All modules are integrated into the `main.c` file to form a complete working sys
 
 ---
 
-## 📁 Repository Structure  
-
-Washing_Machine_Project.X/
-┣ build/
-┣ dist/
-┣ nbproject/
-┣ Makefile
-┣ main.c
-┣ main.h
-┣ clcd.c
-┣ clcd.h
-┣ digital_keypad.c
-┣ digital_keypad.h
-┣ timers.c
-┣ timers.h
-┣ Washing_Machine_Function_def.c
-┣ Washing_Machine_head.h
-┗ isr.c
-
 
 Each module handles a specific function and contributes to the complete washing machine simulation.
 
